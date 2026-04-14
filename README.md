@@ -1,6 +1,7 @@
 # CDIO Scrum Robot Project
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/01498e74-995c-42ba-80b0-57733a0c1a12" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/19cf6ae5-a80d-4554-abca-ef73fc0b0ea8" />
+
 
 ## Project Overview
 
