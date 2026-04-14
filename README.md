@@ -1,5 +1,7 @@
 # CDIO Scrum Robot Project
 
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/01498e74-995c-42ba-80b0-57733a0c1a12" />
+
 ## Project Overview
 
 This repository contains the implementation of a team-based robotics project developed under the **Conceive, Design, Implement, Operate (CDIO)** framework and managed using **Scrum** principles. The objective of the project is to design and build an autonomous walking robot capable of demonstrating multiple biologically inspired behaviours in a controlled environment.
