@@ -43,11 +43,11 @@ To align with Scrum methodology, the project was divided into **five sprints**, 
 
 | Sprint   | Focus Area                      | Duration | Scrum Master      |
 | -------- | ------------------------------- | -------- | ----------------- |
-| Sprint 1 | CAD Design                      | 3 weeks  | Dhanip Modi       |
-| Sprint 2 | Electronics Integration         | 1 week   | Adwil Joshy       |
-| Sprint 3 | Programming & Behaviour Control | 2 weeks  | Senithu Dampegama |
-| Sprint 4 | Testing & Validation            | 1 week   | Misba Babu        |
-| Sprint 5 | Documentation & Presentation    | 1 week   | Dinuli Jayaweera  |
+| Sprint 1 | CAD Design                      | 4 weeks  | Dhanip Modi       |
+| Sprint 2 | Electronics Integration         | 2 weeks  | Adwil Joshy       |
+| Sprint 3 | Robot Build                     | 1 week   | Dinuli Jayaweera  |
+| Sprint 4 | Programming & Behaviour Control | 2 weeks  | Senithu Dampegama |
+| Sprint 5 | Testing & Validation            | 1 week   | Misba Babu        |
 
 The sprint order was selected to reflect real-world engineering dependencies, ensuring stable integration and reducing rework.
 
